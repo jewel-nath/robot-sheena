@@ -4,17 +4,18 @@
 ## **It's a Mobile controling Humanoid Robot**
 
 ## Here we used:
+
 **Arduino Mega Microcontroler** 
-<img align="left" width="200" src="pic/arduino.png" />
+<img  width="200" src="pic/arduino.png" />
 <br/>
 **Servo Motors for hand and head movements**
-<img align="left" width="200" src="pic/servo.jpg" />
+<img  width="200" src="pic/servo.jpg" />
 <br/>
 **Ultrasonic Sensors**
-<img align="left" width="200" src="pic/ultrasonic.jpg" />
+<img  width="200" src="pic/ultrasonic.jpg" />
 <br/>
 **DC Motors for walking**
-<img align="left" width="00" src="pic/dcmotor.jpg" />
+<img  width="00" src="pic/dcmotor.jpg" />
 <br/>
 * **LED**
 * **Display**
