@@ -44,6 +44,7 @@
 * **Right and Left hand various movements**
 * **Answered any question using google API**
 * **Go forward and backward**
+* **Turn left and right**
 
 ## News Link:
 * [Jamuna TV](https://www.youtube.com/watch?v=WyegetkAb0M)
