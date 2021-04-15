@@ -5,18 +5,17 @@
 
 ## ⚡Here we used:
 
-**Arduino Mega Microcontroler** 
+* **Arduino Mega Microcontroler** 
 <img  width="200" src="pic/arduino.png" />
 <br/>
-**Servo Motors for hand and head movements**
+* **Servo Motors for hand and head movements**
 <img  width="200" src="pic/servo.jpg" />
 <br/>
-**Ultrasonic Sensors**
+* **Ultrasonic Sensors**
 <img  width="200" src="pic/ultrasonic.jpg" />
 <br/>
-**DC Motors for walking**
+* **DC Motors for walking**
 <img  width="200" src="pic/dcmotor.jpg" />
-<br/>
 <br/>
 * **LED**
 * **Display**
@@ -25,6 +24,7 @@
 <br/>
 <br/>
 <br/>
+
 ## ⚡It's able to - 
 * **Salute anyone**
 * **Handshake** 
