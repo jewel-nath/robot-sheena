@@ -3,6 +3,13 @@
 
 ## **It's a Mobile controling Humanoid Robot**
 <br />
+
+### It's made by team [robosouls](https://www.facebook.com/robosouls).
+1. [Shanjit Mandal, Circuit designer](https://www.facebook.com/shanjit.mondol.50)
+2. [Jewel Nath, Programmer](https://www.facebook.com/dev.jewel.5/)
+3. [Sayed](https://www.facebook.com/Sayedur0077)
+4. [Niaz al Masum](https://www.facebook.com/niazal.masum)
+
 <br />
 
 ## ⚡Here we used:
@@ -40,7 +47,9 @@
 
 ## News Link:
 * [Jamuna TV](https://www.youtube.com/watch?v=WyegetkAb0M)
-* [Robosouls](https://www.facebook.com/watch/?v=450685949116749)
+* [Robosouls](https://fb.watch/4UbvpyVrjy/)
+* [Channel 24](https://fb.watch/4UbxxDa6IR/)
+* [bdnews24](https://fb.watch/4UbDYTbKmy/)
 
 <br />
 <br/>
