@@ -40,7 +40,8 @@
 <br/>
 <img align="left" width="300" src="pic/all.JPG" />
 
-<img align="middle" width="300" src="pic/me.jpg" />
+<img align="left" width="300" src="pic/me.jpg" />
 
-<img align="right" width="300" src="pic/sleep.JPG" />
+<img align="left" width="250" src="pic/sleep.JPG" />
+<br/>
 <br/>
