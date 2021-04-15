@@ -38,10 +38,10 @@
 
 
 <br/>
-<img align="left" width="300" src="pic/all.JPG" />
+<img align="left" width="250" src="pic/all.JPG" />
 
-<img align="left" width="300" src="pic/me.jpg" />
+<img align="left" width="250" src="pic/me.jpg" />
 
-<img align="left" width="250" src="pic/sleep.JPG" />
+<img align="left" width="220" src="pic/sleep.JPG" />
 <br/>
 <br/>
