@@ -28,7 +28,7 @@
 <br/>
 **LED**
 <br/>
-**Display**
+**LCD Display**
 <br/>
 **Google Assistant API for taliking**
 <br/>
