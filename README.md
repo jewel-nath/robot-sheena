@@ -1,8 +1,5 @@
 # Robot_Sheena
 
-<img src="pic/66419300_166056314433540_173560792367497216_n.jpg" />
-
-<br />
 
 ## **It's a Mobile controling Humanoid Robot**
 
