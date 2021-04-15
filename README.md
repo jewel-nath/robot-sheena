@@ -38,12 +38,16 @@
 * **Answered any question using google API**
 * **Go forward and backward**
 
+## News Link:
+* [Jamuna TV](https://www.youtube.com/watch?v=WyegetkAb0M)
+* [Robosouls](https://www.facebook.com/watch/?v=450685949116749)
 
+<br />
 <br/>
-<img align="left" width="250" src="pic/all.JPG" />
+<img align="left" width="500" src="pic/all.JPG" />
 
-<img align="left" width="250" src="pic/me.jpg" />
+`<img align="left" width="250" src="pic/me.jpg" />
 
 <img align="left" width="220" src="pic/sleep.JPG" />
 <br/>
-<br/>
+<br/>`
