@@ -3,13 +3,17 @@
 
 ## **It's a Mobile controling Humanoid Robot**
 
-### Here we used:
-* Arduino Microcontroler 
+## Here we used:
+* Arduino Mega Microcontroler 
+<img width="300" src="pic/arduino.jpg" />
 * Servo Motors for hand and head movements
+<img width="300" src="pic/servo.jpg" />
 * Ultrasonic Sensors
+<img width="300" src="pic/ultrasonic.jpg" />
 * LED
 * Display
 * DC Motors for walking 
+<img width="300" src="pic/dcmotor.jpg" />
 * Google Assistant API for taliking
 * C++ Programming Language in arduino
 
@@ -23,6 +27,10 @@
 
 
 <br/>
-<img src="pic/66419300_166056314433540_173560792367497216_n.jpg" />
-<br/>
-<img src="pic/66419300_166056314433540_173560792367497216_n.jpg" />
+<img width="300" src="pic/all.jpg" />
+
+<img width="300" src="pic/me.jpg" />
+
+<img width="300" src="pic/sleep.jpg" />
+
+
