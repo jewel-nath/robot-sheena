@@ -1,5 +1,7 @@
 # Robot_Sheena
 
+<!--lint ignore double-link-->
+<img src="pic/robothand.gif" align="right" width="50%" />
 
 ## **It's a Mobile controling Humanoid Robot**
 <br />
