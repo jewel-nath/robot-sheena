@@ -1,3 +1,7 @@
+// From the HC-SR04 range meter in the "Ultrasonic Sensor HC-SR04 and Arduino Tutorial" and the "Arduino LCD Tutorial"
+// by Dejan Nedelkovski, HowToMechatronics (https://howtomechatronics.com/tutorials/arduino/lcd-tutorial/).
+// All rights reserved by its author; not covered by this repository's MIT licence.
+
 #include <LiquidCrystal.h> // includes the LiquidCrystal Library
 
 LiquidCrystal lcd(1, 2, 4, 5, 6, 7); // Creates an LCD object. Parameters: (rs, enable, d4, d5, d6, d7)

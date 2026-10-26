@@ -1,3 +1,7 @@
+// From the "Ultrasonic Sensor HC-SR04 and Arduino Tutorial" by Dejan Nedelkovski, HowToMechatronics
+// (https://howtomechatronics.com/tutorials/arduino/ultrasonic-sensor-hc-sr04/). All rights reserved by its author;
+// not covered by this repository's MIT licence.
+
 // defines pins numbers
 const int trigPin = 9;
 const int echoPin = 10;
